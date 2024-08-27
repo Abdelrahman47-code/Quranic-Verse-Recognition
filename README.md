@@ -4,7 +4,7 @@ Welcome to the Quranic Verse Recognition Tool! This project uses advanced AI mod
 ![image](https://c0.wallpaperflare.com/preview/935/577/300/quran-faith-islamic-muslim.jpg)
 
 📝 Overview
-This tool allows users to record audio of a Quranic verse, which is then processed to identify the Surah and Ayah (verse) number. It uses the !["tarteel-ai/whisper-tiny-ar-quran"](https://huggingface.co/tarteel-ai/whisper-tiny-ar-quran) model from Hugging Face's Transformers library for the recognition process.
+This tool allows users to record audio of a Quranic verse, which is then processed to identify the Surah and Ayah (verse) number. It uses the ["tarteel-ai/whisper-tiny-ar-quran"](https://huggingface.co/tarteel-ai/whisper-tiny-ar-quran) model from Hugging Face's Transformers library for the recognition process.
 
 📦 Features
 - Real-Time Audio Recording 🎤: Capture and process audio recordings instantly.
@@ -20,7 +20,9 @@ This tool allows users to record audio of a Quranic verse, which is then process
 - Output: Displays the identified Surah and Ayah, and reads it out loud.
 
 📋 JSON Files
-- The tool uses a structured format for Quranic verses stored in JSON files. Each Surah's Text that you can get from ![here](https://www.equran.org/) is mapped to a corresponding JSON file containing its Ayahs.
+- The tool uses a structured format for Quranic verses stored in JSON files. Each Surah's Text that you can get from [here](https://www.equran.org/) is mapped to a corresponding JSON file containing its Ayahs.
+
+---
 
 🤲 Alhumdallah for Completing this Project
 - Check out my website with a portfolio [Here](https://sites.google.com/view/abdelrahman-eldaba110) 🌟
